@@ -13,9 +13,9 @@ This bot is only for fun and was created while CBT, don't use it to gather resou
 ## Install
 
 * install Go and MinGW
-* clone repository with `git clone git@github.com:ChistiyKot/gobot-nw.git` or just download it
-* run `go mod download` from gobot project folder
-* change some settings if needed in top of `go.bot` file (like resolution etc)
+* clone repository with `git clone git@github.com:ChistiyKot/gobot-nw.git` or just download and unpack it somewhere
+* run `go mod download` from gobot-nw project folder
+* change some settings if needed in top of `bot.go` file (like resolution etc)
 * start `New World` (better in window mode)
 * run `go run bot.go` from project folder and enjoy
 
